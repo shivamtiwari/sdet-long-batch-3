@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Job Board Test Cases" duration-ms="204986" started-at="2020-09-11T09:43:34Z" finished-at="2020-09-11T09:46:59Z">
+    <groups>
+    </groups>
+    <test name="Job Board" duration-ms="204986" started-at="2020-09-11T09:43:34Z" finished-at="2020-09-11T09:46:59Z">
+      <class name="com.java.SDET_Selenium.Test.Job_BoardTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="setUp" is-config="true" duration-ms="14416" started-at="2020-09-11T09:43:35Z" finished-at="2020-09-11T09:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC01_verifyTheWebsiteTitle()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="TC01_verifyTheWebsiteTitle" duration-ms="770" started-at="2020-09-11T09:43:49Z" finished-at="2020-09-11T09:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_verifyTheWebsiteTitle -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="setUp" is-config="true" duration-ms="9015" started-at="2020-09-11T09:43:50Z" finished-at="2020-09-11T09:43:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC02_VerifyTheWebsiteHeading()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="TC02_VerifyTheWebsiteHeading" duration-ms="759" started-at="2020-09-11T09:43:59Z" finished-at="2020-09-11T09:43:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_VerifyTheWebsiteHeading -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="setUp" is-config="true" duration-ms="9384" started-at="2020-09-11T09:44:00Z" finished-at="2020-09-11T09:44:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC03_getURLOfHeaderImage()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="TC03_getURLOfHeaderImage" duration-ms="1015" started-at="2020-09-11T09:44:09Z" finished-at="2020-09-11T09:44:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_getURLOfHeaderImage -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="setUp" is-config="true" duration-ms="9785" started-at="2020-09-11T09:44:10Z" finished-at="2020-09-11T09:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC04_verifyWebSiteSeacondHeading()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="TC04_verifyWebSiteSeacondHeading" duration-ms="594" started-at="2020-09-11T09:44:20Z" finished-at="2020-09-11T09:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_verifyWebSiteSeacondHeading -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="setUp" is-config="true" duration-ms="9063" started-at="2020-09-11T09:44:20Z" finished-at="2020-09-11T09:44:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC05_naviagteToJobPage()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="TC05_naviagteToJobPage" duration-ms="8679" started-at="2020-09-11T09:44:29Z" finished-at="2020-09-11T09:44:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05_naviagteToJobPage -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="setUp" is-config="true" duration-ms="11399" started-at="2020-09-11T09:44:38Z" finished-at="2020-09-11T09:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC06_ApplyToAJob()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="TC06_ApplyToAJob" duration-ms="5745" started-at="2020-09-11T09:44:49Z" finished-at="2020-09-11T09:44:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06_ApplyToAJob -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="setUp" is-config="true" duration-ms="11292" started-at="2020-09-11T09:44:55Z" finished-at="2020-09-11T09:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC07_CreateAJobListing()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="TC07_CreateAJobListing" duration-ms="14313" started-at="2020-09-11T09:45:06Z" finished-at="2020-09-11T09:45:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC07_CreateAJobListing -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="setUp" is-config="true" duration-ms="9603" started-at="2020-09-11T09:45:21Z" finished-at="2020-09-11T09:45:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC08_visitSiteBackend()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="TC08_visitSiteBackend" duration-ms="9019" started-at="2020-09-11T09:45:30Z" finished-at="2020-09-11T09:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC08_visitSiteBackend -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="setUp" is-config="true" duration-ms="9648" started-at="2020-09-11T09:45:39Z" finished-at="2020-09-11T09:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC09_createAJobBackend()[pri:0, instance:com.java.SDET_Selenium.Test.Job_BoardTest@68c4039c]" name="TC09_createAJobBackend" duration-ms="70333" started-at="2020-09-11T09:45:49Z" finished-at="2020-09-11T09:46:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC09_createAJobBackend -->
+      </class> <!-- com.java.SDET_Selenium.Test.Job_BoardTest -->
+    </test> <!-- Job Board -->
+  </suite> <!-- Job Board Test Cases -->
+</testng-results>
